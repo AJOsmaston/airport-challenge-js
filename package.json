@@ -1,0 +1,23 @@
+{
+  "name": "airport_challenge",
+  "version": "1.0.0",
+  "description": "airport challenge in js",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --verbose ./lib"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/makersacademy/airport_challenge.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/makersacademy/airport_challenge/issues"
+  },
+  "homepage": "https://github.com/makersacademy/airport_challenge#readme",
+  "dependencies": {
+    "eslint": "^8.1.0",
+    "jest": "^27.3.1"
+  }
+}
